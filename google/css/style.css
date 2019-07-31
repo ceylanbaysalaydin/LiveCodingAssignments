@@ -1,0 +1,51 @@
+div.main {
+    padding: 150px;
+    text-align: center;
+
+}
+
+.main img {
+    width: 500px;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+
+.pt {
+    padding-top: 20px;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+input,
+label {
+    display: block;
+    margin: auto;
+    width: 350px;
+    margin-bottom: 5px;
+    height: 23px;
+}
+
+.bigger-font-size {
+    font-size: 1.4em;
+}
+
+.button {
+    font-size: 17px;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+.button:hover {
+    background-color: #F2F2F2;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+.copyright {
+    font-size: 1.2em;
+}
